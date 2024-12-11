@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "copperfish.net",
+    "description": "",
+    "home_page_url": "https://copperfeesh.github.io/gh-pages",
+    "feed_url": "https://copperfeesh.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Garron Stevenson"
+    },
+    "items": [
+        {
+            "id": "https://copperfeesh.github.io/gh-pages/thespectrum.html",
+            "url": "https://copperfeesh.github.io/gh-pages/thespectrum.html",
+            "title": "TheSpectrum",
+            "summary": "Revisiting 40 years ago with my first compter.",
+            "content_html": "<p>Revisiting 40 years ago with my first compter.</p>",
+            "author": {
+                "name": "Garron Stevenson"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-11T14:26:23+02:00",
+            "date_modified": "2024-12-11T14:26:23+02:00"
+        }
+    ]
+}
